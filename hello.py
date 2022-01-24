@@ -1,2 +1,2 @@
 print("Hello Coding Python")
-print("Add message")
+print("Added message")
